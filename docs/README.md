@@ -1,6 +1,6 @@
 # GeoCode
 
-This is the repository that contains source code for the [GeoCode website](https://threedle.github.io/GeoCode/).
+This is the repository that contains source code for the [GeoCode website](https://rainforeast.github.io/mesh-neural-network).
 
 If you found GeoCode useful, please cite in your work:
 ```
